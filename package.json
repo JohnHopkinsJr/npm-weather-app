@@ -1,0 +1,23 @@
+{
+  "name": "npm-weather-app",
+  "version": "1.0.0",
+  "description": "GEGT Bootcamp Node Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHopkinsJr/npm-weather-app"
+  },
+  "homepage": "https://github.com/JohnHopkinsJr/npm-weather-app#readme",
+  "author": "John F Hopkins Jr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.3.0",
+    "request": "^2.88.0",
+    "yargs": "^12.0.5",
+    "yars": "^1.2.0"
+  }
+}
